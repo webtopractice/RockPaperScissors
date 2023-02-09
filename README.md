@@ -1,2 +1,2 @@
 # RockPaperScissors
-This is basic rock Papers Scissors WebGame
+This is basic Rock Papers Scissors WebGame
